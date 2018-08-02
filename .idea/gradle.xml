@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/p0091onclickbuttons" />
             <option value="$PROJECT_DIR$/p0131menusimple" />
             <option value="$PROJECT_DIR$/p0141menuadv" />
+            <option value="$PROJECT_DIR$/p0151contextmenu" />
+            <option value="$PROJECT_DIR$/p0161dinamiclayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
