@@ -34,6 +34,7 @@
             <option value="$PROJECT_DIR$/p0381sqlitetransaction" />
             <option value="$PROJECT_DIR$/p0401layoutinflater1" />
             <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/p0421simplelist" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
