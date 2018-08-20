@@ -43,6 +43,7 @@
             <option value="$PROJECT_DIR$/p0491simpleadaptercustom1" />
             <option value="$PROJECT_DIR$/p0501simpleadaptercustom2" />
             <option value="$PROJECT_DIR$/p0511simpleadapterdata" />
+            <option value="$PROJECT_DIR$/p0541customadapter" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
